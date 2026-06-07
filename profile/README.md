@@ -7,7 +7,7 @@
 **Next-generation Minecraft server network built for performance, scalability, and innovation**
 
 [![Website](https://img.shields.io/badge/website-kojacraft.net-blue?style=for-the-badge&logo=)](https://www.kojacraft.net)
-[![Discord](https://img.shields.io/badge/discord-join-purple?style=for-the-badge&logo=discord)](https://discord.gg/kojacraft)
+[![Discord](https://img.shields.io/badge/discord-join-purple?style=for-the-badge&logo=discord)](https://discord.gg/Xp6wFH3nM6)
 [![GitHub](https://img.shields.io/badge/github-organization-black?style=for-the-badge&logo=github)](https://github.com/kojacraft)
 
 </div>
@@ -77,7 +77,7 @@ This project is licensed under the MIT License - see the [LICENSE](kojacoord-pro
 
 - **Website**: [https://www.kojacraft.net](https://www.kojacraft.net)
 - **Documentation**: [Coming Soon]
-- **Discord**: [Join our community](https://discord.gg/kojacraft)
+- **Discord**: [Join our community](https://discord.gg/Xp6wFH3nM6)
 - **GitHub**: [https://github.com/kojacraft](https://github.com/kojacraft)
 
 ---
